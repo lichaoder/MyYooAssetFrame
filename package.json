@@ -17,7 +17,9 @@
     "email": "",
     "url": "https://github.com/lichaoder"
   },
-  "dependencies": {},
+  "dependencies": {
+    "com.tuyoogame.yooasset": "1.5.7"
+  },
   "samples": []
 }
 
