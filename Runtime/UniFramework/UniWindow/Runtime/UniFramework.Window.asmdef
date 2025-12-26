@@ -2,7 +2,7 @@
     "name": "UniFramework.Window",
     "rootNamespace": "",
     "references": [
-        "YooAsset.Runtime"
+        "YooAsset"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],
