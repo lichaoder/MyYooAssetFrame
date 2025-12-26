@@ -12,11 +12,11 @@ My Yoo Asset Frame Package
 4. 选择 **Add package from git URL...**
 5. 输入 Git URL：
    ```
-   https://github.com/yourusername/yourrepository.git
+   https://github.com/lichaoder/MyYooAssetFrame.git
    ```
    或者指定分支/标签：
    ```
-   https://github.com/yourusername/yourrepository.git#v1.0.0
+   https://github.com/lichaoder/MyYooAssetFrame.git#v1.0.0
    ```
 
 ### 通过 manifest.json 安装
@@ -26,7 +26,7 @@ My Yoo Asset Frame Package
 ```json
 {
   "dependencies": {
-    "com.njrg.myyooframe": "https://github.com/yourusername/yourrepository.git"
+    "com.njrg.myyooframe": "https://github.com/lichaoder/MyYooAssetFrame.git"
   }
 }
 ```
